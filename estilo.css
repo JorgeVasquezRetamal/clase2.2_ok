@@ -1,0 +1,19 @@
+/* REFERENCIANDO CON PALABRA CLAVE */
+/* h1{
+    font-size: 100px;
+} */
+
+/* REFERENCIANDO CON EL ATRIBUTO ID */
+/* #titulo-principal{
+    font-size: 100px;    
+} */
+
+/* REFERENCIANDO CON EL ATRIBUTO CLASS */
+/* .color-green{
+    color: green;
+} */
+
+/* REFERENCIANDO MEDIANTE CUALQUIER ATRIBUTO */
+/* header[name="t1"]{
+    color: green;
+} */
